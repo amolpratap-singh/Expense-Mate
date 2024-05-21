@@ -38,5 +38,3 @@ It features user authentication, expense management (add, edit, delete, view), a
 - **Database**: PostgreSQL
 - **Frontend**: React.js, Axios
 - **Containerization**: Docker, Docker Compose
-
-## Project Structure
