@@ -1,9 +1,17 @@
 # Expense-Mate
+
+![GitHub all releases](https://img.shields.io/github/downloads/amolpratap-singh/Expense-Mate/total)
+![GitHub language count](https://img.shields.io/github/languages/count/amolpratap-singh/Expense-Matew)
+![GitHub top language](https://img.shields.io/github/languages/top/amolpratap-singh/Expense-Mate?color=green)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/amolpratap-singh/Expense-Mate)
+![GitHub forks](https://img.shields.io/github/forks/amolpratap-singh/Expense-Mate?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/amolpratap-singh/Expense-Mate?style=social)
+
 Expense-Mate is a versatile expense tracking application designed to help users manage their finances efficiently.
 
-<!--
-Expense-Mate is a versatile expense tracking application designed to help users manage their finances efficiently. It features user authentication, expense management (add, edit, delete, view), and a user-friendly dashboard. Built with Flask for the backend, PostgreSQL for data storage, and React.js for the frontend, Expense-Mate ensures a responsive and scalable solution for personal finance management. Docker is used for containerization, facilitating easy deployment and scalability.
--->
+## Overview
+
+It features user authentication, expense management (add, edit, delete, view), and a user-friendly dashboard. Built with Flask for the backend, PostgreSQL for data storage, and React.js for the frontend, Expense-Mate ensures a responsive and scalable solution for personal finance management. Docker is used for containerization, facilitating easy deployment and scalability.
 
 ## Features
 
